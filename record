@@ -1,0 +1,5 @@
+1.$ django-admin
+2.$ django-admin startproject myweb
+3.$ python manage.py runserver 0.0.0.0:800
+4.on firefox type:http://127.0.0.1:8000/
+ "It worked!..."
